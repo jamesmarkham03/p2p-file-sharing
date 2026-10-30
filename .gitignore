@@ -1,0 +1,8 @@
+# Build output
+index_server
+peer
+*.o
+
+.env
+.env.*
+CLAUDE.local.md
